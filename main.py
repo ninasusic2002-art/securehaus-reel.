@@ -8,6 +8,7 @@ FPS = 30
 DURATION = 15
 
 os.makedirs("output", exist_ok=True)
+IMAGE_PATH = "IMG_2598.jpeg"
 
 def get_font(size):
     paths = [
